@@ -14,7 +14,7 @@ This repo contains the samples that demonstrate the API usage patterns for the U
 
 ## Universal Windows Platform development
 
-These samples require Visual Studio 2017 Update 4 or higher and the Windows Software Development Kit (SDK) version 16299 for Windows 10.
+These samples require Visual Studio 2017 Update 4 or higher and the Windows Software Development Kit (SDK) version 17134 for Windows 10.
 
    [Get a free copy of Visual Studio 2017 Community Edition with support for building Universal Windows Platform apps](http://go.microsoft.com/fwlink/p/?LinkID=280676)
 
@@ -93,35 +93,36 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  </tr>
  <tr>
   <td><a href="Samples/CameraResolution">Camera resolution</a></td>
+  <td><a href="Samples/CameraStreamCoordinateMapper">Camera stream coordinate mapper</a></td>
   <td><a href="Samples/CameraStreamCorrelation">Camera stream correlation</a></td>
-  <td><a href="Samples/LiveDash">DASH streaming</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/LiveDash">DASH streaming</a></td>
   <td><a href="Samples/D2DPhotoAdjustment">Direct2D photo adjustment</a></td>
   <td><a href="Samples/MediaEditing">Media editing</a></td>
-  <td><a href="Samples/MediaImport">Media import</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/MediaImport">Media import</a></td>
   <td><a href="Samples/XamlCustomMediaTransportControls">Media transport controls</a></td>
   <td><a href="Samples/MIDI">MIDI</a></td>
-  <td><a href="Samples/Playlists">Playlists</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/Playlists">Playlists</a></td>
   <td><a href="Samples/PlayReady">PlayReady</a></td>
   <td><a href="Samples/CameraOpenCV">Processing frames with OpenCV</a></td>
-  <td><a href="Samples/SimpleImaging">Simple imaging</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/SimpleImaging">Simple imaging</a></td>
   <td><a href="Samples/SpatialSound">Spatial audio</a></td>
   <td><a href="Samples/SystemMediaTransportControls">System media transport controls</a></td>
-  <td><a href="Samples/MediaTranscoding">Transcoding media</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/MediaTranscoding">Transcoding media</a></td>
   <td><a href="Samples/VideoPlayback">Video playback</a></td>
   <td><a href="Samples/VideoPlaybackSynchronization">Video playback synchronization</a></td>
-  <td><a href="Samples/CameraVideoStabilization">Video stabilization</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/CameraVideoStabilization">Video stabilization</a></td>
   <td><a href="Samples/WindowsAudioSession">Windows audio session (WASAPI)</a></td>
  </tr>
 </table>
@@ -165,50 +166,45 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  <tr>
   <td><a href="Samples/3DPrinting">3D Printing</a></td>
   <td><a href="Samples/3DPrintingFromUnity">3D Printing from Unity</a></td>
-  <td><a href="Samples/XamlAutoSuggestBox">AutoSuggestBox</a></td>
+  <td><a href="Samples/XamlBottomUpList">Bottom-up list (XAML)</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/XamlBottomUpList">Bottom-up list (XAML)</a></td>
   <td><a href="Samples/Clipboard">Clipboard</a></td>
   <td><a href="Samples/DWriteColorGlyph">Colored glyphs (DirectWrite)</a></td>
+  <td><a href="Samples/XamlCommanding">Commanding</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/XamlCommanding">Commanding</a></td>
   <td><a href="Samples/ContextMenu">Context menu</a></td>
   <td><a href="Samples/XamlContextMenu">Context menu (XAML)</a></td>
+  <td><a href="Samples/CustomEditControl">Custom text edit control</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/CustomEditControl">Custom text edit control</a></td>
   <td><a href="Samples/XamlDataVirtualization">Data virtualization</a></td>
   <td><a href="Samples/UserSelection">Disabling selection</a></td>
+  <td><a href="Samples/DisplayOrientation">Display orientation</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/DisplayOrientation">Display orientation</a></td>
   <td><a href="Samples/DWriteTextLayoutCloudFont">Downloadable fonts (DirectWrite)</a></td>
   <td><a href="Samples/XamlCloudFontIntegration">Downloadable fonts (XAML)</a></td>
+  <td><a href="Samples/XamlDragAndDrop">Drag and drop</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/XamlDragAndDrop">Drag and drop</a></td>
   <td><a href="Samples/XamlFocusVisuals">Focus visuals</a></td>
   <td><a href="Samples/FullScreenMode">Full screen mode</a></td>
+  <td><a href="Samples/XamlGamepadNavigation">Gamepad-style navigation (XAML)</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/XamlGamepadNavigation">Gamepad-style navigation (XAML)</a></td>
   <td><a href="Samples/DWriteLineSpacingModes">Line spacing (DirectWrite)</a></td>
   <td><a href="Samples/XamlListView">ListView and GridView</a></td>
+  <td><a href="Samples/LockScreenApps">Lock screen apps</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/LockScreenApps">Lock screen apps</a></td>
   <td><a href="Samples/MessageDialog">Message dialog</a></td>
   <td><a href="Samples/MultipleViews">Multiple views</a></td>
- </tr>
- <tr>
   <td><a href="Samples/OCR">OCR</a></td>
-  <td><a href="Samples/Printing">Printing</a></td>
-  <td><a href="Samples/XamlPullToRefresh">Pull-to-refresh</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/XamlResponsiveTechniques">Responsiveness techniques</a></td>
+  <td><a href="Samples/Printing">Printing</a></td>
   <td><a href="Samples/DpiScaling">Scaling according to DPI</a></td>
   <td><a href="Samples/SplashScreen">Splash screen</a></td>
  </tr>
@@ -218,12 +214,11 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
   <td><a href="Samples/TitleBar">Title bar</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/XamlTreeView">TreeView (XAML)</a></td>
   <td><a href="Samples/XamlUIBasics">UI basics (XAML)</a></td>
   <td><a href="Samples/UserInteractionMode">User interaction mode</a></td>
+  <td><a href="Samples/WebView">WebView control (HTML)</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/WebView">WebView control (HTML)</a></td>
   <td><a href="Samples/XamlWebView">WebView control (XAML)</a></td>
   <td><a href="Samples/ResizeAppView">Window resizing</a></td>
  </tr>
@@ -235,7 +230,7 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  <tr>
   <td><a href="Samples/BasicInput">Basic input</a></td>
   <td><a href="Samples/ComplexInk">Complex inking</a></td>
-  <td><a href="Samples/InkAnalysis">Ink analysis/a></td>
+  <td><a href="Samples/InkAnalysis">Ink analysis</a></td>
  </tr>
  <tr>
   <td><a href="Samples/Ink">Inking</a></td>
@@ -284,6 +279,7 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  <tr>
   <td><a href="Samples/ShareSource">Sharing content source app</a></td>
   <td><a href="Samples/ShareTarget">Sharing content target app</a></td>
+  <td><a href="Samples/UserActivity">User activities</a></td>
  </tr>
 </table>
 
@@ -425,7 +421,6 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  </tr>
  <tr>
   <td><a href="Samples/XamlTransform3DAnimations">Transform3D animations</a></td>
-  <td><a href="Samples/XamlTransform3DParallax">Transform3D parallax</a></td>
  </tr>
 </table>
 
@@ -510,10 +505,9 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  <tr>
   <td><a href="Samples/BackButton">Back Button</a></td>
   <td><a href="Samples/XamlMasterDetail">Master/detail</a></td>
-  <td><a href="Samples/XamlNavigation">Navigation menu (XAML)</a></td>
+  <td><a href="Samples/XamlPivot">Pivot</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/XamlPivot">Pivot</a></td>
   <td><a href="Samples/Projection">Projection</a></td>
   <td><a href="Samples/PackagedContent">XHR, handling navigation errors, and URL schemes</a></td>
  </tr>
